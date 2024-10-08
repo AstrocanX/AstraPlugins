@@ -1,0 +1,4 @@
+name: AstrosFristPlugin
+version: '${project.version}'
+main: com.astra.astrosfristplugin.AstrosFristPlugin
+api-version: '1.19'
